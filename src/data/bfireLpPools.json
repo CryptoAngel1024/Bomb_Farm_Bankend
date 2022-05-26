@@ -1,0 +1,21 @@
+[
+  {
+    "name": "bfire-bfire-wcro",
+    "address": "0x60337372A65A709dE0BBCB4A27Caa3e912f8875d",
+    "decimals": "1e18",
+    "poolId": 1,
+    "chainId": 25,
+    "lp0": {
+      "address": "0x601f79d65929a6ac2831ef90F662A2248A786756",
+      "oracle": "tokens",
+      "oracleId": "BFIRE",
+      "decimals": "1e18"
+    },
+    "lp1": {
+      "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+      "oracle": "tokens",
+      "oracleId": "WCRO",
+      "decimals": "1e18"
+    }
+  }
+]
